@@ -1,5 +1,5 @@
 # Important-Link
-## From
+## Author
 [bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
@@ -34,7 +34,7 @@
 - [Image Compression](#Image-compression)
 - [Chrome Extensions](#Chrome-extensions)
 
-##STL
+## STL
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Transform](https://www.geeksforgeeks.org/transform-c-stl-perform-operation-elements/)| Transform function |
