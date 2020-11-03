@@ -35,9 +35,13 @@
 - [Chrome Extensions](#Chrome-extensions)
 
 ## STL
+![Flowchart of Adaptive Containers and Unordered Containers](https://media.geeksforgeeks.org/wp-content/uploads/20191111161536/Screenshot-from-2019-11-11-16-13-18.png)
+![Flowchart of Sequence conatiners and ordered containers](https://media.geeksforgeeks.org/wp-content/uploads/20191111161627/Screenshot-from-2019-11-11-16-15-07.png)
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Transform](https://www.geeksforgeeks.org/transform-c-stl-perform-operation-elements/)| Transform function |
+| [find](https://www.geeksforgeeks.org/std-find-in-cpp/) | find data in vector or in STL container |
 
 - [Others](#others)
 
